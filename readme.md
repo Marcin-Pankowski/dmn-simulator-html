@@ -43,6 +43,13 @@ Below is a sample screenshot of the simulator UI:
 - `img/logo.png` – project logo for documentation and UI
 - `img/screenshot.png` – example screenshot of the simulator
 
+## License
+
+This project is licensed under the MIT License.  
+Copyright (c) 2025 Marcin Pankowski
+
+See the `LICENSE` file for the full license text.
+
 Have fun your G.O.D. of DMN
 
 www.piu.de
